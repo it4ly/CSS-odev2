@@ -1,0 +1,47 @@
+.logo {
+    display: block;
+    text-align: center;
+    background-color: #fff;
+}
+
+.search {
+    display: block;
+    background-color: #eee;
+    margin: 0px 97px;
+    
+}
+
+.firsttd {
+    
+    width:37%;
+    text-align: center;
+    background-color: #7EE5DA;
+}
+
+.midtd {
+
+    font-size: small;
+    text-align: center;
+    background-color: #70CCC2;
+  
+}
+
+.lasttd {
+    
+    text-align: center;
+    font-size: small;
+    background-color: #62B3AA;
+    
+}
+
+.table2 {
+    border-top-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+    width: 90%;
+}
+
+p {
+    font-size: small;
+}
